@@ -1,7 +1,7 @@
 baseurl = "https://codeforupsc.github.io"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
-title = "Beautiful Hugo"
+title = "Code for Upsc"
 theme = "beautifulhugo"
 metaDataFormat = "yaml"
 pygmentsStyle = "trac"
@@ -17,7 +17,7 @@ pygmentsCodefencesGuessSyntax = true
   homeTitle = "Code for UPSC" # Set a different text for the header on the home page
   subtitle = "General Studies with Current affirs"
   mainSections = ["post","posts"]
-  logo = "img/avatar-icon.png" # Expecting square dimensions
+  logo = "img/logo.png" # Expecting square dimensions
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
   commit = false
@@ -45,7 +45,7 @@ pygmentsCodefencesGuessSyntax = true
 #  desc = "Hexagon"
 
 [Author]
-  name = "Anshu"
+  name = "Anshu Prabhakar"
   website = "yourwebsite.com"
   email = "youremail@domain.com"
   facebook = "username"
